@@ -1,0 +1,111 @@
+button {
+  cursor: pointer;
+}
+body {
+    background-color: rgb(6, 1, 59);
+    margin:0;
+}
+
+header {
+  background-color: rgb(238, 224, 254);
+  display: block;
+  margin: 0 auto;
+  padding: 5px;
+  width: 1190px;
+}
+
+h1 {
+  font-family: "Kablammo", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+}
+h2 {
+  text-align: center;
+  font-family: "Snowburst One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  font-family: "Ribeye Marrow", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+main {
+  width: 1200px;
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+li {
+  list-style-type: none;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: rgb(217, 217, 217);
+  width: 200px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+}
+
+.choose-btn {
+  width: 400px;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: x-large;
+  background-color: black;
+  color: rgb(255, 255, 255);
+}
+
+.class-container {
+  display: flex;
+}
+
+.nameP {
+  height: 150px;
+  width: auto;
+  margin:60px;
+}
+
+.present-btn {
+  border: none;
+  background-color: transparent;
+}
+
+.present {
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(120, 207, 33);
+  color: rgb(21, 21, 21);
+}
+
+#rando-name {
+  width: 600px;
+  /* height:500px; */
+  background-color: rgb(39, 16, 77);
+  text-align: center;
+  font-size: 100px;
+  color: white;
+  align-content: center;
+}
+
+#shuffler {
+  width: 600px;
+  background-color: rgb(138, 43, 226);
+}
+.class-container {
+    background-color: crimson;
+}

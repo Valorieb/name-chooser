@@ -1,0 +1,16 @@
+{
+  "kids": [
+    { "name": "Griffin", "present": true },
+    { "name": "Otto", "present": true },
+    { "name": "Jack", "present": true },
+    { "name": "Cooper", "present": true },
+    { "name": "Cy", "present": true },
+    { "name": "Addie", "present": true },
+    { "name": "Pace", "present": true },
+    { "name": "Kendra", "present": true },
+    { "name": "Anna", "present": true },
+    { "name": "Sawyer", "present": true },
+    { "name": "Messiah", "present": true },
+    { "name": "Junior", "present": true }
+  ]
+}
